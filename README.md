@@ -26,9 +26,3 @@
   <li>✔️ Validate input</li>
 </ul>
 
-
-<!--Screenshots (GIFs/PNGs)-->
-<h2>Screenshots</h2>
-<p align="center">
-  <img src="https://github.com/curadProgrammer/Java-Swing-MySQL-Quiz-Game/blob/main/quiz_gmae.gif" alt="Quiz Game Example">
-</p>
