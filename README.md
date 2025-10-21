@@ -3,7 +3,7 @@
 
 <!--Introduction-->
 <h2>Introduction</h2>
-<p>In this beginner Java programming tutorial, learn how to make this multiple choice quiz/test GUI in Java using Swing and MySQL. You can check out the full tutorial <a href="https://www.youtube.com/watch?v=npjPPR0I2p8&t=0s">here</a>
+<p>In this beginner Java programming tutorial, learn how to make this multiple choice quiz/test GUI in Java using Swing and MySQL. You can check out the full tutorial here
   , where I carefully go over the logic flow so that you can understand how this project is coded the way it was.
 </p>
 
