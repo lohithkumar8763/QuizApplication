@@ -1,6 +1,5 @@
 package database;
 
-// data model to represent dat from category table
 public class Category {
     private int categoryId;
     private String categoryName;
