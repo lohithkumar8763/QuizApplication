@@ -1,4 +1,4 @@
-package screens;
+package screens
 
 import constants.CommonConstants;
 import database.JDBC;
